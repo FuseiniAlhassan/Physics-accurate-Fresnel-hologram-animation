@@ -1,1 +1,1 @@
-
+![](wavefront_propagation.gif)
